@@ -14,3 +14,8 @@ Jaraguá do Sul recebe muitos novos habitantes. O projeto visa reduzir o número
 
 ## 4. Descrição do MVP
 Aplicação web para cadastro de usuários e adesão a grupos de carona pré-definidos por destino (Empresas parceiras).
+
+## 5. Modelagem de Dados (Lógico)
+Aqui está a estrutura do banco de dados do sistema, focada na integração entre usuários, empresas e grupos de carona.
+
+![Modelo Lógico](./modelo_logico.png)
