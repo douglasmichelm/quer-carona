@@ -19,3 +19,8 @@ Aplicação web para cadastro de usuários e adesão a grupos de carona pré-def
 Aqui está a estrutura do banco de dados do sistema, focada na integração entre usuários, empresas e grupos de carona.
 
 ![Modelo Lógico](./modelo_logico.png)
+
+## 6. Diagrama de Classes
+Representação das classes do sistema, seus atributos, métodos e associações.
+
+![Diagrama de Classes](./diagrama_classes.png)
