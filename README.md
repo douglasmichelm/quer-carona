@@ -24,3 +24,22 @@ Aqui está a estrutura do banco de dados do sistema, focada na integração entr
 Representação das classes do sistema, seus atributos, métodos e associações.
 
 ![Diagrama de Classes](./diagrama_classes.png)
+
+## 7. Diagrama de Caso de Uso Geral
+Mapeamento das funcionalidades do sistema e interação entre os atores (Colaborador e Administrador).
+
+![Caso de Uso](./diagrama_caso_uso.png)
+
+## 8. Diagrama de Sequência
+Fluxo de mensagens para o processo de solicitação de entrada em um grupo de carona.
+
+![Diagrama de Sequência](./digrama_sequencia.png)
+
+## 9. Diagrama de Atividades
+Fluxo lógico de decisão para a adesão de um novo membro a um grupo de carona fixo.
+
+![Diagrama de Atividade](./diagrama_atividade.png)
+
+---
+## Planejamento de Futura Expansão
+Para futuras implementações, o sistema poderá ser expandido para outros bairros e cidades. Estão previstas integrações com APIs de mapas (Google Maps/Waze) para cálculo de rotas em tempo real e automação da divisão de custos de combustível.
