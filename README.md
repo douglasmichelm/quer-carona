@@ -18,8 +18,16 @@ Jaraguá do Sul recebe muitos novos habitantes. O projeto visa reduzir o número
 ## 4. Descrição do MVP
 Aplicação web que permitirá o cadastro de usuários, vinculação a empresas e participação em grupos fixos de carona, organizados conforme o destino (empresas do trajeto). O sistema possibilitará a solicitação de entrada em grupos existentes e a aprovação pelo motorista responsável.
 
-## 5. Modelagem de Dados (Lógico)
-Aqui está a estrutura do banco de dados do sistema, focada na integração entre usuários, empresas e grupos de carona.
+## 5. Modelagem de Dados do Banco de Dados
+Nesta seção, apresentamos as duas etapas de modelagem do banco de dados do sistema, focado na integração entre funcionários de empresas em Nereu Ramos.
+
+### 5.1 Modelo Conceitual
+Este modelo apresenta a visão de alto nível das entidades e seus relacionamentos (Conceitual Raiz).
+
+![Modelo Conceitual](./modelo_conceitual.png)
+
+### 5.2 Modelo Lógico
+Abaixo, a estrutura técnica detalhada com tabelas, chaves primárias (IDs) e tipos de dados.
 
 ![Modelo Lógico](./modelo_logico.png)
 
